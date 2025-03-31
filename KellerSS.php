@@ -1,4 +1,6 @@
 <?php
+system("clear");
+
 echo "\033[0m           KellerSS Android \033[0;36mFucking Cheaters\033[0m discord.gg/allianceoficial\n\n";
 echo "\n";
 echo "\033[0;31m                           )       (     (          (\n";
